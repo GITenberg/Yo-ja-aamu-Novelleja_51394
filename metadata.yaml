@@ -1,0 +1,33 @@
+_repo: Yo-ja-aamu-Novelleja_51394
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nuormaa, Hilja
+    gutenberg_agent_id: '47088'
+    url: http://www.gutenberg.org/2009/agents/47088
+creator:
+  author:
+    agent_name: Balázs, Alexander
+    alias: Balazs, Alexander
+    birthdate: 1830
+    deathdate: 1887
+    gutenberg_agent_id: '46394'
+    url: http://www.gutenberg.org/2009/agents/46394
+description: ''
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51394'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian -- Translations into Finnish'
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: Alexander Balazs -- Yö ja aamu -- Onnettomin ihminen -- Aasi -- Selittämätön
+  tapaus.
+title: 'Yö ja aamu: Novelleja'
+url: http://www.gutenberg.org/ebooks/51394
